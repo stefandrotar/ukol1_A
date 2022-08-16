@@ -1,3 +1,5 @@
+package com.engeto.uloha1;
+
 /**
  * Class representing Seller of carrot
  */
